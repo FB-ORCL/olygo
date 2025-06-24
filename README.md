@@ -6,7 +6,7 @@ Welcome! This repository serves as a **redirect hub** to my main GitHub account,
 
 ## 🚀 Explore My Main GitHub
 
-👉 **[Visit my main GitHub profile here]([https://github.com/olygo)**
+👉 **[Visit my main GitHub profile here](https://github.com/olygo)**
 
 ---
 
