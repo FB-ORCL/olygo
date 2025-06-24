@@ -1,6 +1,6 @@
 # 📦 Repository Redirect – Explore My Main GitHub
 
-Welcome! This repository serves as a **redirect hub** to [my main GitHub account](https://github.com/Olygo), where I actively maintain my most popular and useful projects.
+Welcome! This repository serves as a **redirect hub** to my main GitHub account, where I actively maintain my most popular and useful projects.
 
 ---
 
